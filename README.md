@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Said Javadov
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I know Python, PowerBI, Tableau, SQL and Excel
 - 💞️ I’m looking to collaborate on data-related projects
 - 📫 How to reach me: [My email:scavadov2005@gmail.com]
 - 😄 Pronouns: He/Him
