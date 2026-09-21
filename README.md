@@ -7,7 +7,7 @@ I have hands-on experience with SQL, Python, Excel, Power BI, and Tableau, worki
 I’m particularly interested in exploratory data analysis, econometrics, and risk-related problems, where data meets real-world uncertainty. I value clarity over complexity and focus on insights that are practical, explainable, and useful.
 
 I’m a continuous learner, actively improving my technical and analytical skills, and I enjoy working on projects that challenge my thinking and expand my perspective. I’m open to collaborative, data-driven environments where analysis is taken seriously and results matter.
-- How to reach me: [My email: scavadov2005@gmail.com]
+- How to reach me: [My email: sayidjavadov1965@gmail.com]
 
 
 
